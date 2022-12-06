@@ -8,7 +8,7 @@ import FooterView from './components/FooterView.vue'
 </script>
 
 <template>
-  <div class='font-inter'>
+  <div class='font-inter dark:bg-slate-900'>
     <div class='max-w-5xl mx-auto w-11/12'>
       <NavbarView/>
       <HomeView/>
